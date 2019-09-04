@@ -18,5 +18,10 @@
   "homepage": "https://github.com/JessicaSegell/fakefolio#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "10.15.3"
   }
+
+  
 }
